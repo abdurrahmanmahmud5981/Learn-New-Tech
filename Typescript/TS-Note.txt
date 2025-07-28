@@ -1,0 +1,13 @@
+// Type Safety + many feauers 
+
+# Setup Environment 
+
+# Install Typescript 
+    npm install -g typescript
+    tsc --version
+    npm update -g typescript
+
+# Typescript Setup 
+   -Setting Up Typescript Project
+   -Configuring tsconfig.json
+   -Compiling Typescript
