@@ -11,3 +11,23 @@
    -Setting Up Typescript Project
    -Configuring tsconfig.json
    -Compiling Typescript
+
+# Command for run Ts
+  -tsc 
+  -tsc --watch file.ts
+
+# Basic Types 
+  -Primitive Types (number,string, boolean)
+  -Arrays
+  -Tuples
+  -Enums
+  -Any, Unknown, Void, Null, Undefined, Never
+
+#Primitive and Reference
+  -[],{},()--Reference
+
+# Arrays
+  -let arr: (number | string)[] = [1, 2, 3, `4,5`];
+
+# Tuples 
+  -let arr: [string,number] = [`slkf`,10]
